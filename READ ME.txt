@@ -1,0 +1,1 @@
+Selamat datang di SIHURE, SIHURE merupakan aplikasi berbasis website yang dapat membantu perusahaan skala kecil untuk mendata absensi karyawannya serta mendata gaji dari para karyawannya beserta tunjangan, insentif, dan potongannya. Aplikasi ini juga dapat membantu perusahaan untuk mengelola data karyawan mereka sehingga seluruhnya dapat diakses melalui interface yang sama.
